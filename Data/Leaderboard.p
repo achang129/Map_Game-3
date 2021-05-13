@@ -1,0 +1,11 @@
+(dp0
+S'TestHighScore'
+p1
+I210
+sS'NAME'
+p2
+I0
+sS'Brandon'
+p3
+I0
+s.
